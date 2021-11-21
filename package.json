@@ -2,7 +2,7 @@
   "name": "next-gssp-challenge-3",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --port 8080",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
